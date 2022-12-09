@@ -1,1 +1,4 @@
 this is a main txt file.
+
+
+param = [one, two]
